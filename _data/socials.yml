@@ -24,17 +24,17 @@ email: ar4151@columbia.edu # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: Andrés Riveros Valdevenito # your LinkedIn user name
+linkedin_username: andres-riveros-valdevenito # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0009-0003-6795-1177 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+# rss_icon: true # comment this line to hide the RSS icon
+scholar_userid: N2ggfsMAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -52,5 +52,5 @@ scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+  title: arXiv
+  url: https://arxiv.org/search/?query=Andres+Riveros+Valdevenito&searchtype=all&source=header
