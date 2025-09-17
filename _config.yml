@@ -266,7 +266,7 @@ scholar:
   last_name: [Riveros Valdevenito]
   first_name: [Andrés, A.]
 
-  style: apa
+  style: abbrv
   locale: en
 
   source: /_bibliography/
