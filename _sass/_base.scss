@@ -278,12 +278,13 @@ ul.task-list input[type="checkbox"] {
 
 .navbar.navbar-light {
   a {
+    background-color: #b9d9eb;
     &:hover {
       text-decoration: none;
     }
   }
 
-  background-color: #e0ffff;
+
 
   .navbar-brand {
     color: var(--global-bg-color);
