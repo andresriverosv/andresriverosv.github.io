@@ -250,10 +250,8 @@ ul.task-list input[type="checkbox"] {
   opacity: 0.95;
 }
 
-@media(prefers-color-scheme = dark){
-  .navbar{
-    background-color: var(--global-bg-color) !important;
-  }
+html[data-theme="dark"] nav.navbar {
+  background-color: var(--global-bg-color) !important;
 }
   
 .navbar .dropdown-menu {
