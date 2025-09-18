@@ -246,10 +246,14 @@ ul.task-list input[type="checkbox"] {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: #e0ffff;
   opacity: 0.95;
 }
 
+@media(prefers-color-scheme = dark){
+  background-color: var(--global-bg-color);
+}
+  
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
