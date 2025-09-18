@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate in Statistics at <a href='https://stat.columbia.edu/'>Columbia University</a>.
+subtitle: PhD Candidate, <a href='https://stat.columbia.edu/'>Department of Statistics</a>, Columbia University.
 
 profile:
   align: left
   image: Foto_Visa.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>Download a detailed <a href='_assets/pdf/CV.pdf'>CV here</a></p>.
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Andrés, currently on my final year as a PhD Student in the statistics department at [Columbia University](https://stat.columbia.edu/), in New York City. I'm co-advised by [Professor Marcel Nutz](https://www.marcelnutz.com/) and [Professor Philip Protter](https://sites.stat.columbia.edu/protter/). My research interests are probability theory & stochastic calculus, with applications to both optimization and statistics. More specifically, I've focused on SDE analysis and random times, mainly explosions and jump times; while recently focusing on Optimal Transport theory, and regularizations therein. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before my PhD, I received my Bachelors and Masters degrees at the [Facultad de Ciencias Físicas y Matemáticas (FCFM)](https://ingenieria.uchile.cl/), at [Universidad de Chile](https://uchile.cl/), where I graduated as the best graduate in my cohort. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was born and raised in Santiago, Chile. I'm also an avid boardgamer and tabletop roleplaying enthusiast!
