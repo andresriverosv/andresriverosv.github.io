@@ -251,7 +251,9 @@ ul.task-list input[type="checkbox"] {
 }
 
 @media(prefers-color-scheme = dark){
-  background-color: var(--global-bg-color);
+  .navbar{
+    background-color: var(--global-bg-color);
+  }
 }
   
 .navbar .dropdown-menu {
@@ -286,8 +288,6 @@ ul.task-list input[type="checkbox"] {
       text-decoration: none;
     }
   }
-
-
 
   .navbar-brand {
     color: var(--global-text-color);
