@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "About",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -17,11 +17,11 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
+          title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
