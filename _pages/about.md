@@ -9,10 +9,7 @@ profile:
   image: Foto_Visa.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Download a detailed <a href='_assets/pdf/CV.pdf'>CV here</a></p>.
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>Download a detailed [CV here]({{ '/assets/files/CV.pdf' | relative_url }})</p>.
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
