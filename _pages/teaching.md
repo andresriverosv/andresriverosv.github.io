@@ -9,7 +9,7 @@ nav_order: 6
 
 Teaching Assistant Courses at Columbia University:
 -	Stochastic Methods in Finance STAT GR4265 (Fall 2025),
--	PhD Probability II STAT GR6302 (Spring 2024, Spring 2025), 
+-	PhD Probability II STAT GR6302 (Spring 2024, Spring 2025, Spring 2026), 
 -	PhD Probability I STAT GR6301 (Fall 2023, Fall 2024), 
 -	Probability STAT S4203/W5203 (Summer 2023),
 -	Introduction to Statistics with Calculus STAT S1201/W1201 (Summer 2022, Spring 2023),
