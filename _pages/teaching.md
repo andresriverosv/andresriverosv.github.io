@@ -7,6 +7,9 @@ nav: true
 nav_order: 6
 ---
 
+Teaching at Carnegie Mellon University: 
+- Probability 21325 (fall 2026).
+
 Teaching Assistant Courses at Columbia University:
 -	Stochastic Methods in Finance STAT GR4265 (Fall 2025),
 -	PhD Probability II STAT GR6302 (Spring 2024, Spring 2025, Spring 2026), 
