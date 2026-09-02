@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate, <a href='https://stat.columbia.edu/'>Department of Statistics</a>, Columbia University.
+subtitle: Postdoctoral Researcher, <a href='https://www.cmu.edu/math/'>Department of Mathematical Sciences</a>, Carnegie Mellon University.
 
 profile:
   align: left
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Andrés, currently on my final year as a PhD Student in the statistics department at [Columbia University](https://stat.columbia.edu/), in New York City. I'm co-advised by [Professor Marcel Nutz](https://www.marcelnutz.com/) and [Professor Philip Protter](https://sites.stat.columbia.edu/protter/). My research interests are probability theory & stochastic calculus, with applications to both optimization and statistics. More specifically, I've focused on SDE analysis and random times, mainly explosions and jump times; while recently focusing on Optimal Transport theory, and regularizations therein. 
+Hello! I'm Andrés, and I'm a Postdoctoral Researcher in the Department of Mathematical Sciences at [Carnegie Mellon University](https://www.cmu.edu/math/). Before this, I completed my PhD in statistics at [Columbia University](https://stat.columbia.edu/), in New York City, co-advised by [Professor Marcel Nutz](https://www.marcelnutz.com/) and [Professor Philip Protter](https://sites.stat.columbia.edu/protter/). My research interests are probability theory & stochastic calculus, with applications to both optimization and statistics. More specifically, I've focused on SDE analysis and random times, mainly explosions and jump times; while recently focusing on Optimal Transport theory, and regularizations therein. 
 
 Before my PhD, I received my Bachelors and Masters degrees at the [Facultad de Ciencias Físicas y Matemáticas (FCFM)](https://ingenieria.uchile.cl/), at [Universidad de Chile](https://uchile.cl/), where I graduated as the best graduate in my cohort. 
 
