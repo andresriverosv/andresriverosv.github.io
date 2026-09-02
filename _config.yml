@@ -7,7 +7,7 @@ first_name: Andrés
 middle_name:
 last_name: Riveros Valdevenito
 contact_note: >
-  To reach me, you can email me at ar4151 (at) columbia (dot) edu
+  To reach me, you can email me at ariveros (at) andrew (dot) cmu (dot) edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
