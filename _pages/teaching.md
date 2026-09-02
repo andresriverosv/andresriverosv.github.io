@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 Teaching at Carnegie Mellon University: 
-- Probability 21325 (fall 2026).
+- Probability 21325 (Fall 2026).
 
 Teaching Assistant Courses at Columbia University:
 -	Stochastic Methods in Finance STAT GR4265 (Fall 2025),
