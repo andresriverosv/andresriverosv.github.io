@@ -17,8 +17,8 @@ Teaching Assistant Courses at Columbia University:
 -	Probability STAT S4203/W5203 (Summer 2023),
 -	Introduction to Statistics with Calculus STAT S1201/W1201 (Summer 2022, Spring 2023),
 -	Linear Regression Models STAT S4205/S5205 (Fall 2022), 
--	Introduction to Statistics STAT W1101 (Spring 2022, Fall & Spring 2021),
--	Introduction to Statistical Reasoning STAT W1001 (Summer 2021, Fall 2020),
+-	Introduction to Statistics STAT W1101 (Fall & Spring 2021, Spring 2022),
+-	Introduction to Statistical Reasoning STAT W1001 (Fall 2020, Summer 2021),
 -	Probability Qualifying Exam Review Session Teacher (Summer 2023, 2024, 2025),
 -	Core Competency Exam Review Session Teacher (Spring 2024).
 
